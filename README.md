@@ -9,16 +9,16 @@
   * 一个可以逐天操作日期的大日历
   * 日を1日に操作できるカレンダー
   * 날를 하루에 조작할 수 있는 캘린더
-
-* the component is at ImmenseCalendar/src/components/calendar.vue
-* 组件位于ImmenseCalendar/src/components/calendar.vue
-* コンポーネントはImmenseCalendar/src/components/calendar.vueにあります
-* 요소는 ImmenseCalendar/src/components/calendar.vue에 있습니다
-
-* the usage is at ImmenseCalendar/src/App.vue
-* 用法位于ImmenseCalendar/src/App.vue
-* 使用法はImmenseCalendar/src/App.vueにあります
-* 사용법은 ImmenseCalendar/src/App.vue에 있습니다
+*
+  * the component is at ImmenseCalendar/src/components/calendar.vue
+  * 组件位于ImmenseCalendar/src/components/calendar.vue
+  * コンポーネントはImmenseCalendar/src/components/calendar.vueにあります
+  * 요소는 ImmenseCalendar/src/components/calendar.vue에 있습니다
+*
+  * the usage is at ImmenseCalendar/src/App.vue
+  * 用法位于ImmenseCalendar/src/App.vue
+  * 使用法はImmenseCalendar/src/App.vueにあります
+  * 사용법은 ImmenseCalendar/src/App.vue에 있습니다
 
  * custom variable
  * @param {number} year - the year to show
