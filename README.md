@@ -30,3 +30,4 @@
   * @function onChange - return selected days list
   * @function disabledDays - use callback funtion to mark disabled days, need to return a boolean value
 
+![a test image](static/display page.png)
