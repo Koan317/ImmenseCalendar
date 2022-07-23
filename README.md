@@ -19,14 +19,14 @@
   * 用法位于ImmenseCalendar/src/App.vue
   * 使用法はImmenseCalendar/src/App.vueにあります
   * 사용법은 ImmenseCalendar/src/App.vue에 있습니다
-
- * custom variable
- * @param {number} year - the year to show
- * @param {number} month - the month to show
- * @param {string} lang - interface language, 'EN','JP','KO' are available, and other values lead to Chinese
- * @param {array} selectedDays - selectedDays, begin from 1, both number array and string array are available
- * @param {number} buttonWidth - each width of a day button
- * @param {boolean} disabled - if is disabled, true lead to disabled and other values lead to false
- * @function onChange - return selected days list
- * @function disabledDays - use callback funtion to mark disabled days, need to return a boolean value
+*
+  * custom variable
+  * @param {number} year - the year to show
+  * @param {number} month - the month to show
+  * @param {string} lang - interface language, 'EN','JP','KO' are available, and other values lead to Chinese
+  * @param {array} selectedDays - selectedDays, begin from 1, both number array and string array are available
+  * @param {number} buttonWidth - each width of a day button
+  * @param {boolean} disabled - if is disabled, true lead to disabled and other values lead to false
+  * @function onChange - return selected days list
+  * @function disabledDays - use callback funtion to mark disabled days, need to return a boolean value
 
