@@ -1,15 +1,14 @@
 # ImmenseCalendar
-
-* base on Element-UI
-* 基于Element-UI开发
-* Element-UIに基づいて
-* Element-UI를 기반으로
-
-
-* an immense calendar support selecting days one by one
-* 一个可以逐天操作日期的大日历
-* 日を1日に操作できるカレンダー
-* 날를 하루에 조작할 수 있는 캘린더
+*
+** base on Element-UI
+** 基于Element-UI开发
+** Element-UIに基づいて
+** Element-UI를 기반으로
+*
+** an immense calendar support selecting days one by one
+** 一个可以逐天操作日期的大日历
+** 日を1日に操作できるカレンダー
+** 날를 하루에 조작할 수 있는 캘린더
 
 * the component is at ImmenseCalendar/src/components/calendar.vue
 * 组件位于ImmenseCalendar/src/components/calendar.vue
