@@ -30,4 +30,4 @@
   * @function onChange - return selected days list
   * @function disabledDays - use callback funtion to mark disabled days, need to return a boolean value
 
-![a test image](https://myoctocat.com/assets/images/base-octocat.svg)
+![a test image](https://github.com/Koan317/ImmenseCalendar/blob/main/static/display%20page.png)
