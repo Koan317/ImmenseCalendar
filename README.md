@@ -1,8 +1,8 @@
 # ImmenseCalendar
 
-*base on Element-UI
-*基于Element-UI开发
-*Element-UIに基づいて
+ * base on Element-UI
+ *基于Element-UI开发
+* Element-UIに基づいて
 *Element-UI를 기반으로
 
 *an immense calendar support selecting days one by one
