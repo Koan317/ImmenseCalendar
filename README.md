@@ -30,4 +30,4 @@
   * @function onChange - return selected days list
   * @function disabledDays - use callback funtion to mark disabled days, need to return a boolean value
 
-![a test image](static/display page.png)
+![a test image]([static/display page.png](https://github.com/Koan317/ImmenseCalendar/blob/fadf54c37d8811d46b319ae7e1836ad116cac257/static/display%20page.png))
